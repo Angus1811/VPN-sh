@@ -9,4 +9,4 @@ find the VPN servers I am using here: https://www.ovpn.com/en/configurations
 > - linux or macos
 > - [openVPN installed](https://openvpn.net/cloud-docs/openvpn-3-client-for-linux/)
 
-(un supported and broken)
+(un-supported and broken)
